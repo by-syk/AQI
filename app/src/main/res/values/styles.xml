@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="app_theme" parent="@android:style/Theme.Black" />
+
+    <style name="sharp_text">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:shadowColor">@android:color/black</item>
+        <item name="android:shadowRadius">1.0</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+    </style>
+
+</resources>

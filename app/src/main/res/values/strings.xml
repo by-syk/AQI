@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AQI</string>
+
+    <string name="copyright" translatable="false">Copyright &#169; 2016 By_syk. All rights reserved.</string>
+
+    <string name="dia_title_where">This city?</string>
+    <string name="dia_bt_yes">Yes</string>
+
+    <string name="toast_air_quality">Air quality: %1$s</string>
+
+</resources>
